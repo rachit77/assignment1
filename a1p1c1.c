@@ -2,8 +2,9 @@
 int main()
 {
 	printf("enter the length and breadth");
-	float l,b,area;
+	float l,b,area,perimeter;
 	scanf("%f %f" ,&l,&b);
 	area=l*b;
-	printf("area of rectangle %f", area);
+	perimeter=l+b;
+	printf("area and perimeter of rectangle are :%f  %f",perimeter, area);
 }
