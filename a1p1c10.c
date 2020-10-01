@@ -11,7 +11,7 @@ int main()
 	 n=n/10;
 	 m=(n*10+a)*10+b;
 
-        printf("the output is %d",m);
+        printf("the outputanswer is %d",m);
 }
 
 
