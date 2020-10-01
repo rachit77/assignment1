@@ -5,5 +5,5 @@ int main()
 	int a,b,n;
 	scanf("%d %d",&a,&b);
 	n=(a*a)+(b*b*b);
-	printf("%d",n);
+	printf("answer is %d",n);
 }
